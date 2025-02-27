@@ -1,8 +1,8 @@
 {
-    "token": "",
+    "token": "MTM0NDc4NjQ1Nzg1NjA0OTI0Mg.GFhwTj.O1nBw1VKMDr0Pk9z60SncSGvYYTfZUPSJh_h_4",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://shiva:shiva@discordbot.opd5w.mongodb.net/?retryWrites=true&w=majority",
     "excessCommands": {
         "utility": true,
         "other": true,
